@@ -14,11 +14,11 @@
     "@ai-sdk/openai": "^0.0.45",
     "@azure-rest/ai-document-intelligence": "^1.0.0-beta.2",
     "@midday/utils": "workspace:*",
-    "ai": "3.3.3",
+    "ai": "5.0.52",
     "base64-arraybuffer": "^1.0.2",
     "change-case": "^5.4.4",
     "heic-convert": "1.2.4",
-    "zod": "^3.23.8"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/bun": "^1.1.6",

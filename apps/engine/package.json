@@ -16,7 +16,7 @@
     "plaid": "^26.0.0",
     "typesense": "^1.8.2",
     "xior": "^0.5.5",
-    "zod": "^3.23.8"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240729.0",
